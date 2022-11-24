@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 
 @import "reset.css";
+@import "more.css";
 
 @import "status-bar.css";
 @import "variables.css";
@@ -9,11 +10,18 @@
 
 @import "nav-bar.css";
 @import "screen-header.css";
+
 @import "friends.css";
 @import "user-component.css";
+
 @import "badge.css";
 @import "find.css";
 
+@import "icon-row.css";
+@import "alt-screen-header.css";
+
+@import "settings.css";
+@import "chat.css";
 
 body {
   font-family: "Open Sans", sans-serif;

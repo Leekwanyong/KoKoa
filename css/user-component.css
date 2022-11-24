@@ -52,3 +52,14 @@
     margin-bottom: 15px;
     display: block;
 }
+
+.user-component__text i {
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    margin-left: 15px;
+    margin-right: -25px;
+    margin-top: -15px;
+    color: tomato;
+
+}
